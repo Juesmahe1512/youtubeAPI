@@ -8,7 +8,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
 
-    val API_KEY = "AIzaSyBkR7fSJpKqkpFVXT9PJHqbl9Aj4GY4jNw"
+    val API_KEY = "API_KEY_HERE"
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
